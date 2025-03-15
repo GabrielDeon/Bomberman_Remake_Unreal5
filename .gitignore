@@ -1,0 +1,25 @@
+# Unreal Engine 5 generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore specific files
+*.log
+*.aps
+*.ini
+*.user
+*.json
+
+# Ignore content folders
+Content/DialogSystemAssetLibrary/
+Content/Collections/
